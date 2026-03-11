@@ -1,0 +1,16 @@
+# venv
+dashboard_env/
+venv/
+*.pyc
+
+# Jupyter
+__pycache__/
+*.ipynb_checkpoints/
+.ipynb
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Données volumineuses (optionnel)
+# *.csv
