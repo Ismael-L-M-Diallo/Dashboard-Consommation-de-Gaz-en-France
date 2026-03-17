@@ -4,7 +4,7 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
 
-**Détection automatique d'anomalies sur 1.4M points horaires de consommation de Gaz France (2023-2024). IsolationForest + Streamlit.**
+**Détection automatique d'anomalies sur 1.4M points horaires de consommation de Gaz en France (2023-2024). IsolationForest + Streamlit.**
 
 ![Dashboard](assets/newplot.png)
 
@@ -18,8 +18,8 @@ Analyse en temps réel des **consommations électriques multi-régions** pour :
 ##  Dataset
 - **Source** : Données publiques France énergie + météo [Kaggle](https://www.kaggle.com/datasets/ravvvvvvvvvvvv/france-energy-weather-hourly)
 - **Volume** : **1 400 000** observations horaires
-- **Variables** : conso élec/gaz (MW), température, vent, précipitations (33 features)
-- **Période** : 2013-2024
+- **Variables** : conso gaz (MW), température, vent, précipitations (33 features)
+- **Période** : 2023-2024
 
 ##  Stack technique
 
