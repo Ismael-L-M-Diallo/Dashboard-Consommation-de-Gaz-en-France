@@ -5,7 +5,7 @@ from sklearn.ensemble import IsolationForest
 from sklearn.preprocessing import StandardScaler
 
 st.set_page_config(layout="wide")
-st.title("🛡️ Dashboard Détection Anomalies Énergie France")
+st.title("🛡️ Dashboard Détection Consommation Gaz en France")
 
 contamination = st.sidebar.slider("Sensibilité (%)", 0.5, 5.0, 1.5, 0.1) / 100
 
