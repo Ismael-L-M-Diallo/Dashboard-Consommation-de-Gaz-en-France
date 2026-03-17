@@ -19,7 +19,7 @@ Analyse en temps réel des **consommations électriques multi-régions** pour :
 - **Source** : Données publiques France énergie + météo [Kaggle](https://www.kaggle.com/datasets/ravvvvvvvvvvvv/france-energy-weather-hourly)
 - **Volume** : **1 400 000** observations horaires
 - **Variables** : conso gaz (MW), température, vent, précipitations (33 features)
-- **Période** : 2023-2024
+- **Période** : 2023-2024 (randomise)
 
 ##  Stack technique
 
