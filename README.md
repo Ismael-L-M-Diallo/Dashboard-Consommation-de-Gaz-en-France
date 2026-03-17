@@ -5,8 +5,8 @@
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
 
 **Détection automatique d'anomalies sur 1.4M points horaires de consommation de Gaz en France (2023-2024). IsolationForest + Streamlit.**
+<img width="1081" height="500" alt="image" src="https://github.com/user-attachments/assets/bcc4018e-2799-45ec-abe3-53a95e4b9660" />
 
-![Dashboard](assets/newplot.png)
 
 ##  Contexte métier
 
