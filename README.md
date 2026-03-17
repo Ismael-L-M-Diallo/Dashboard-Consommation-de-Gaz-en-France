@@ -4,7 +4,7 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
 
-**Détection automatique d'anomalies sur 1.4M points horaires de consommation électrique France (2023-2024). IsolationForest + Streamlit.**
+**Détection automatique d'anomalies sur 1.4M points horaires de consommation de Gaz France (2023-2024). IsolationForest + Streamlit.**
 
 ![Dashboard](assets/newplot.png)
 
