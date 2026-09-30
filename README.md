@@ -113,4 +113,4 @@ MIT License - Apache 2.0
 
  -Dataset : France Energy Weather Kaggle
 
-Auteurs : Ismaël Diallo | Mohammed Kacimi
+Auteurs : Ismaël Diallo | Mohammed Kacimi | Sawab Emane
